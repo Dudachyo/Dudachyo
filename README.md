@@ -47,25 +47,52 @@
 
 ---
 
-## 📌 Featured project
+## 📌 Featured projects
 
-### [HabitTraker](https://github.com/Dudachyo/HabitTraker)
+### 🕸️ [Silk Node](https://github.com/Dudachyo/Silk-Node)
 
-A full-featured habit tracking application built around an asynchronous FastAPI backend.
+A messenger-style web application built around a custom backend and frontend.
+
+**Stack:**
+
+`Python` `Django REST Framework` `React` `PostgreSQL` `REST API`
+
+- 🔐 Authentication and user management
+- 💬 Messenger-style communication
+- 🧩 REST API architecture
+- ⚛️ React frontend
+- 🗄️ Database-driven backend
+- 🌐 Separate backend and frontend applications
+
+---
+
+### 🔥 [HabitTraker](https://github.com/Dudachyo/HabitTraker)
+
+A habit tracking application focused on an asynchronous FastAPI backend.
 
 **Stack:**
 
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `JWT`
 
-**Implemented:**
-
-- 🔐 JWT authentication with access & refresh tokens
-- 👤 User accounts and settings
-- ✅ Habit creation and tracking
-- 🔥 Streak tracking
-- 📅 Daily habit logs
+- 🔐 JWT access & refresh authentication
+- ✅ Habit tracking and daily logs
+- 🔥 Streaks and achievements
 - 🌍 User timezone support
 - ⚡ Async SQLAlchemy
-- 🗃️ Alembic database migrations
+- 🗃️ Alembic migrations
 - 🧩 Layered backend architecture
+
 ---
+
+### 🎵 [YandexMusicStat](https://github.com/Dudachyo/YandexMusicStat)
+
+A web application for working with Yandex Music statistics.
+
+**Stack:**
+
+`Python` `Django` `HTML` `CSS`
+
+- User authentication
+- Music statistics
+- Django-based web application
+- Server-side rendering
